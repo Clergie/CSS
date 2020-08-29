@@ -76,7 +76,7 @@
   --rs-offline-color: #636b75;
   --rs-streaming-color: rgb(var(--discord-twitch));
   --rs-invisible-color: rgb(var(--discord-invisible));
-  --slate-version: "Slate 1.0.3";
+  --slate-version: "Clergie's Modded Discord";
 }
 .theme-dark {
   --border-colour: #141414;
